@@ -1,0 +1,10 @@
+release/laberinto.o
+release/main.o
+release/mainwindow.o
+release/muro.o
+release/pacman.o
+release/personaje.o
+release/pildora.o
+release/qrc_Imagenes.o
+release/qrc_imagenpacman.o
+release/moc_mainwindow.o

@@ -1,0 +1,10 @@
+debug/laberinto.o
+debug/main.o
+debug/mainwindow.o
+debug/muro.o
+debug/pacman.o
+debug/personaje.o
+debug/pildora.o
+debug/qrc_Imagenes.o
+debug/qrc_imagenpacman.o
+debug/moc_mainwindow.o
