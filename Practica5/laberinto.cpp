@@ -75,7 +75,6 @@ void laberinto::verificarColisionesConPildoras(personaje* pacman, QGraphicsScene
         if (pacman->collidesWithItem(pildoras[i])) {  // Verifica si el personaje colisiona con la píldora
             if (pildoras[i]->esMagica()) {
                 qDebug() << "Píldora mágica consumida!";
-                // Aquí puedes añadir efectos adicionales, como activar un estado especial
             } else {
                 qDebug() << "Píldora normal consumida!";
             }

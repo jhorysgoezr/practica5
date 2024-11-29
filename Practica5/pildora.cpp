@@ -5,7 +5,7 @@ Pildora::Pildora(int x, int y, int tamano, bool esMagica)
     if (magica) {
         setBrush(QBrush(Qt::yellow)); // Color amarillo para píldoras mágicas
     } else {
-        setBrush(QBrush(Qt::white)); // Color blanco para píldoras normales
+        setBrush(QBrush(Qt::red)); // Color blanco para píldoras normales
     }
 }
 
